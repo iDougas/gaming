@@ -4,7 +4,7 @@
 using namespace std;
 
 void Gaming(string game);
-void VideoGaming(string game;)
+void VideoGaming(string game);
 
 int main()
 {
