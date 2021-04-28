@@ -22,7 +22,8 @@ void Gaming(string game)
 void VideoGaming(string game)
 {
   ofstream gamer("gaming.txt");
-  for(int i = 0; i < 6; i++) {
+  int bro = game.length();
+  for(int i = 0; i < bro; i++) {
     gamer << game[i];
   }
   gamer.close();
