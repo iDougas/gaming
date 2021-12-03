@@ -1,3 +1,4 @@
+<html>
 <h1>
 <?php
   $gaming = "gaming";
@@ -6,3 +7,4 @@
 </h1>
 <br>
 <img src="gaming.jpg">
+</html>
